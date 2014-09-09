@@ -1,0 +1,23 @@
+{
+  "name": "codewars",
+  "version": "0.0.0",
+  "description": "solutions to codewars problems",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/jrhdoty/codewars.git"
+  },
+  "author": "John Doty",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/jrhdoty/codewars/issues"
+  },
+  "homepage": "https://github.com/jrhdoty/codewars",
+  "devDependencies": {
+    "chai": "^1.9.1",
+    "mocha": "^1.21.4"
+  }
+}
