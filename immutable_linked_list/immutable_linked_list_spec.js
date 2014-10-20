@@ -33,7 +33,7 @@ describe('Immutable LinkedList', function(){
     it('should return printed string for non-empty list', function(){
       expect(l1.toString()).to.equal('(a b c)');
     });
-
+    
 
     it('empty list should have length 0', function(){
       expect(mt.length()).to.equal(0);
